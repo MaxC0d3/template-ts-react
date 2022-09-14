@@ -8,20 +8,20 @@
     "build": "tsc && vite build"
   },
   "dependencies": {
-    "@types/react-router": "^5.1.18",
-    "react": "^18.2.0"
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@types/node": "^18.7.15",
-    "@types/react": "^18.0.17",
-    "@types/react-dom": "^18.0.6",
-    "@typescript-eslint/eslint-plugin": "^5.36.2",
-    "@typescript-eslint/parser": "^5.36.2",
-    "@vitejs/plugin-react": "^2.1.0",
-    "eslint": "^8.23.0",
-    "eslint-config-standard-with-typescript": "^22.0.0",
-    "typescript": "^4.8.2",
-    "vite": "^3.1.0"
+    "@types/node": "18.7.15",
+    "@types/react": "18.0.17",
+    "@types/react-dom": "18.0.6",
+    "@typescript-eslint/eslint-plugin": "5.36.2",
+    "@typescript-eslint/parser": "5.36.2",
+    "@vitejs/plugin-react": "2.1.0",
+    "eslint": "8.23.0",
+    "eslint-config-standard-with-typescript": "22.0.0",
+    "typescript": "4.8.2",
+    "vite": "3.1.0"
   },
   "eslintConfig": {
     "extends": [
